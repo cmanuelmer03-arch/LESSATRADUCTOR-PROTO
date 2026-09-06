@@ -1,0 +1,7 @@
+opencv-python>=4.9
+mediapipe>=0.10.14
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.4
+joblib>=1.4
+pillow>=10.3
