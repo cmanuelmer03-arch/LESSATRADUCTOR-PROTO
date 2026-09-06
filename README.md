@@ -1,6 +1,5 @@
-¡Bienvenido al proyecto! Este sistema utiliza Inteligencia Artificial 
-(Machine Learning y Visión por Computadora) para leer los movimientos 
-de tu mano a través de una cámara web y traducirlos a texto.
+¡Bienvenido al proyecto! Este sistema utiliza (Machine Learning y Visión por Computadora) 
+para leer los movimientos de tu mano a través de una cámara web y traducirlos a texto.
 
 NOTA: ES UN PROTIPO AVANZADO, PERO REQUIERE MAYOR CANTIDAD DE DATOS Y CONFIGURACIONES
 ---
